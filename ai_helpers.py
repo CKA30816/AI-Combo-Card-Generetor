@@ -122,3 +122,4 @@ def create_spell_card(spell_name: str, gesture_label: str, narration_text: str, 
 
     draw.text((430, 495), "Magic recognized from webcam capture", font=sf, fill=(160, 145, 220))
     return card
+
